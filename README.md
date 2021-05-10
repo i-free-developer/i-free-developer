@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there
 I'm a full-stack developer, mainly focused on web development:
 
