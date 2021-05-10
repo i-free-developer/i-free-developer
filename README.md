@@ -5,10 +5,11 @@ I'm a full-stack developer, mainly focused on web development:
 - 👯 take freelance projects:
   - ✨ development and consultation:
     - web applications
-    - wechat platforms: payment / official account / mini program / login web sites via wechat
+    - Wechat platforms: payment / official account / mini program / login web sites via wechat
     - Ali pay platforms: payment login web sites via Ali pay
-  - learn coding:
-    - ⚡ teach you how to code
+  - ✨ training:
+    - ⚡ how to code
+    - ⚡ how to integrate Wechat / Ali platforms with your product
   - tech translation, English to Chinese
 - 🌱 learning Python, Go
 - 💬 Ask me about anything related to Ruby/Ruby On Rails/Javascript/Redis/Postgres/Python/Go
