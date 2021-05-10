@@ -16,4 +16,6 @@ I'm a full-stack developer, mainly focused on web development:
 
 📊 **This week I spent my time on**
 
-[![Xiaohu's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-free-developer)](https://github.com/anuraghazra/github-readme-stats)
+[![Xiaohu's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-free-developer&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-free-developer)](https://github.com/anuraghazra/github-readme-stats)
