@@ -13,7 +13,7 @@ I'm a full-stack developer, mainly focused on web development:
   - tech translation, English to Chinese
 - 🌱 learning Python, Go, CSS
 - 💬 Ask me about anything related to Ruby/Ruby On Rails/Javascript/Redis/Postgres/Python/Go
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-space.pei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:spacepei+github@gmail.com "Connect via Email")
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-space.pei+github@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:spacepei+github@gmail.com "Connect via Email")
 
 📊 **This week I spent my time on**
 
