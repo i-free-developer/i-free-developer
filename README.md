@@ -2,19 +2,30 @@
 <h3 align="center">🌐 Web Developer ✍️ Lifelong Learner ✈️ Explorer</h3>
 
 ---
-I'm a full-stack developer, mainly focused on web development:
+I'm a full-stack developer, living in Shenzhen, China, mainly focused on web development:
 
-- 🔭 working remotely for a startup
-- 👯 take freelance projects:
+- 🔭 worked remotely for startups
+
+- 👯 take short or long term freelance projects:
   - ✨ development and consultation:
-    - web applications
+    - fully featured web applications
+      - ecomerce, SaaS, platforms
     - Wechat platforms: Payment / official account / mini program / login via wechat
     - Ali pay platforms: Payment / login via Ali pay
+  
   - ✨ training:
     - ⚡ how to code
     - ⚡ how to integrate Wechat / Ali platforms into your product
   - tech translation, English to Chinese
-- 🌱 learning more Python, Go, CSS, VueJs
+
+---
+
+**More about me**
+
+- **[What I Read]**(/more-about-me/what-i-read.md)
+
+--- 
+- 🌱 learning more Python, Go, CSS, ReactJS, VueJs
 - 💬 Ask me about anything related to **Ruby**/**Ruby On Rails**/**Javascript**/**Redis**/**Postgres**/**Python**/**Go**
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-space.pei+github@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:spacepei+github@gmail.com "Connect via Email")
 
@@ -30,6 +41,4 @@ I'm a full-stack developer, mainly focused on web development:
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=i-free-developer.i-free-developer)
-
----
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=i-free-developer.i-free-developer) -->
