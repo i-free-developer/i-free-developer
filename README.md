@@ -23,6 +23,7 @@ I'm a full-stack developer, living in Shenzhen, China, mainly focused on web dev
 **More about me**
 
 - **[What I Read](/more-about-me/what-i-read.md)**
+
 - **[What I work on](/more-about-me/what-i-work-on.md)**
 
 --- 
