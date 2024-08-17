@@ -37,19 +37,48 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [Agile Web Development with Rails 7](https://pragprog.com/titles/rails72/agile-web-development-with-rails-7-2)
 
+  - [Testing Rails](https://rubyandrails.info/books/testing-rails)
+
+  - [Modern Front-End Development for Rails](https://pragprog.com/titles/nrclient2/modern-front-end-development-for-rails-second-edition)
+
+  - [Hotwired ATS: Modern, full-stack Rails 7 development](https://rubyandrails.info/books/hotwired-ats-modern-full-stack-rails-7-development)
+
+  - [Metaprogramming Ruby Second Edition by Paolo Perrotta](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2)
+
+  - [Programming Machine Learning From Coding to Deep Learning](https://pragprog.com/titles/pplearn/programming-machine-learning)
+
+  - [Computer Science Distilled](https://code.energy/computer-science-distilled)
+
+  - [Computer Science Unleashed](https://code.energy/computer-science-unleashed)
+
   - [Refactoring UI](https://www.refactoringui.com)
 
   - [Sitepoint Books](https://www.sitepoint.com/premium/books)
 
 ###### programming, development related blogs
 
+
+  - [Rails Info](https://rubyandrails.info/books)
+
+  - [Rails speed](https://www.railsspeed.com)
+
+  - [Learn Hotwire](https://store.afomera.dev/learn-hotwire)
+
+  - [What is Hotwire](https://pragmaticstudio.com/tutorials/what-is-hotwire)
+
+  - [The #1 Rails performance blog on the web](https://www.speedshop.co/blog)
+
   - [CSS tricks](https://css-tricks.com/guides)
+
+  - [Good UI](https://goodui.org)
 
   - [Wes Bos blog](https://wesbos.com/blog)
 
   - [JavaScript Info](https://javascript.info)
 
   - [DEV 37signals](https://dev.37signals.com)
+
+  - [Paolo Perrotta](https://nusco.medium.com)
 
   - [Frontend Masters](https://frontendmasters.com/blog)
 
@@ -58,6 +87,11 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
   - [Ruby China](https://ruby-china.org)
 
   - [awesome-github-profile](https://zzetao.github.io/awesome-github-profile)
+
+  - [Leanpub](https://leanpub.com)
+
+  - [Progress After Le wagon](https://github.com/damienlethiec/after-le-wagon)
+  
 
 
 ###### programming, development related Podcasts
@@ -68,10 +102,29 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [Freecodecamp](https://freecodecamp.libsyn.com)
 
+###### Awesome lists
+  - [Awesome](https://github.com/sindresorhus/awesome)
 
-###### other information source
+  - [Awesome Rails](https://github.com/gramantin/awesome-rails#readme)
+
+  - [Awesome React](https://github.com/enaqx/awesome-react)
+
+  - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+
+  - [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions?tab=readme-ov-file)
+
+
+###### other information source, books, anything informational
 
   - [Wait but Why](https://waitbutwhy.com)
+
+  - [Show your work](https://austinkleon.com/show-your-work)
+
+  - [The 80/20 Principle and 92 Other Powerful Laws of Nature: The Science of Success](https://richardkoch.net)
+
+  - [Better Explained](https://betterexplained.com)
+
+  - [The Great Mental Models Series](https://fs.blog/books/)
 
   - [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.navalmanack.com)
   
@@ -82,6 +135,12 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
   - [Balaji](https://balajis.com)
 
   - [the network state](https://thenetworkstate.com)
+
+  - [The Portfolio Life](https://www.portfoliolife.com)
+
+  - [Company of One](https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356)
+
+  - [Anything You Want](https://sive.rs)
 
   - [The Internet of Money Series](https://aantonop.com/books)
 
