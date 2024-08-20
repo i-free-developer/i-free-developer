@@ -57,6 +57,9 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
 ###### programming, development related blogs
 
+  - [Freecodecamp](https://www.freecodecamp.org)
+
+  - [Full Stack open](https://fullstackopen.com/en)
 
   - [Rails Info](https://rubyandrails.info/books)
 
@@ -91,6 +94,8 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
   - [Leanpub](https://leanpub.com)
 
   - [Progress After Le wagon](https://github.com/damienlethiec/after-le-wagon)
+
+  - [Free Frontend](https://freefrontend.com/css-progress-bars)
   
 
 
@@ -154,7 +159,13 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [Uncharted Territories](https://unchartedterritories.tomaspueyo.com)
 
-  - [Freecodecamp](https://www.freecodecamp.org)
+  - [Social: Why Our Brains Are Wired to Connect](https://www.amazon.com/Social-Why-Brains-Wired-Connect/dp/0307889106)
 
-  - [Full Stack open](https://fullstackopen.com/en)
+  - [Doctor Dolittle](https://www.amazon.com/Doctor-Dolittle-Complete-Collection-Illustrated-ebook/dp/B0C9JNDFD4?ref_=ast_author_mpb)
+
+  - [Other Rivers: A Chinese Education Hardcover by Peter Hessler](https://www.amazon.com/stores/Peter-Hessler/author/B001ILMA1C?ref=sr_ntt_srch_lnk_1&qid=1723972979&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true)
+
+  - [Scott H Young](https://www.scotthyoung.com/blog)
+
+  - [Tech Pays](https://techpays.com)
 
