@@ -169,3 +169,5 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [Tech Pays](https://techpays.com)
 
+  - [The Pragmatic Engineer](https://blog.pragmaticengineer.com)
+
