@@ -1,4 +1,15 @@
-During the past few months, I coded not too much.
-  - Upgraded a Rails app to latest Rails(7.1.3.4)
-  - rewrite the exited PadelX wechat mini program, using wechat mini program native, no more frameworks. It was build via wepy framework, not easy to upgrade, so I rewrite it.
-  - refresh morden HTML5, CSS3, JavaScript, finished some Freecodecamp projects
+###### what i finished
+  - During the past few months, I spend more time on reading than coding
+  
+  - [x] Upgraded a Rails app to latest Rails(7.1.3.4)
+  
+  - [x] rewrite the existed PadelX wechat mini program, using wechat mini program native, no more frameworks. It was build via wepy framework, not easy to upgrade, so I rewrite it.
+  
+  - [x] refresh morden HTML5, CSS3, JavaScript, finished some Freecodecamp projects
+
+###### what I want to do soon
+  - [] rebuild the PadelX to a SaaS, powered by the latest Rails, in the rails way (Hotwire, turbo, tailwindcss...), with API endpoints
+  
+  - [] build a React project
+  
+  - [] more ideas

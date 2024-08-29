@@ -55,6 +55,8 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [Sitepoint Books](https://www.sitepoint.com/premium/books)
 
+  - [The little Redis book](http://github.com/karlseguin/the-little-redis-book)
+
 ###### programming, development related blogs
 
   - [Freecodecamp](https://www.freecodecamp.org)
@@ -108,6 +110,7 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
   - [Freecodecamp](https://freecodecamp.libsyn.com)
 
 ###### Awesome lists
+
   - [Awesome](https://github.com/sindresorhus/awesome)
 
   - [Awesome Rails](https://github.com/gramantin/awesome-rails#readme)
@@ -161,8 +164,6 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [Social: Why Our Brains Are Wired to Connect](https://www.amazon.com/Social-Why-Brains-Wired-Connect/dp/0307889106)
 
-  - [Doctor Dolittle](https://www.amazon.com/Doctor-Dolittle-Complete-Collection-Illustrated-ebook/dp/B0C9JNDFD4?ref_=ast_author_mpb)
-
   - [Other Rivers: A Chinese Education Hardcover by Peter Hessler](https://www.amazon.com/stores/Peter-Hessler/author/B001ILMA1C?ref=sr_ntt_srch_lnk_1&qid=1723972979&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true)
 
   - [Scott H Young](https://www.scotthyoung.com/blog)
@@ -171,3 +172,12 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [The Pragmatic Engineer](https://blog.pragmaticengineer.com)
 
+###### Fictions and others
+  
+  - [Doctor Dolittle](https://www.amazon.com/Doctor-Dolittle-Complete-Collection-Illustrated-ebook/dp/B0C9JNDFD4?ref_=ast_author_mpb)
+
+  - [A Song of Ice and Fire](https://awoiaf.westeros.org/index.php/Main_Page)
+
+  - [the Alien series](https://avp.fandom.com/wiki/Alien_(film))
+
+  - [H.R. Giger](https://www.littlegiger.com/index.html)
