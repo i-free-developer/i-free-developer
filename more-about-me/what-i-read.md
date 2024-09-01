@@ -23,9 +23,15 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [It Doesn’t Have to Be Crazy at Work](https://basecamp.com/books/calm)
 
+  - [Ruby Hunt, all resources](https://rubyhunt.dev)
+
   - [Learn enough series](https://www.learnenough.com)
 
   - [The Rails way 7](https://leanpub.com/therails7way)
+
+  - [Hotwire Rails](https://www.hotrails.dev/turbo-rails)
+
+  - [Api on Rails](https://github.com/madeindjs/api_on_rails)
 
   - [The Pragmatic Bookshelf](https://pragprog.com/categories/ruby-and-rails)
 
@@ -39,6 +45,8 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [Testing Rails](https://rubyandrails.info/books/testing-rails)
 
+  - [The Odin project Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails)
+
   - [Modern Front-End Development for Rails](https://pragprog.com/titles/nrclient2/modern-front-end-development-for-rails-second-edition)
 
   - [Hotwired ATS: Modern, full-stack Rails 7 development](https://rubyandrails.info/books/hotwired-ats-modern-full-stack-rails-7-development)
@@ -46,6 +54,8 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
   - [Metaprogramming Ruby Second Edition by Paolo Perrotta](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2)
 
   - [Programming Machine Learning From Coding to Deep Learning](https://pragprog.com/titles/pplearn/programming-machine-learning)
+
+  - [Computer Science from the Bottom Up](https://www.bottomupcs.com)
 
   - [Computer Science Distilled](https://code.energy/computer-science-distilled)
 
@@ -63,6 +73,8 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [Full Stack open](https://fullstackopen.com/en)
 
+  - [Teach Yourself Computer Science](https://teachyourselfcs.com)
+
   - [Rails Info](https://rubyandrails.info/books)
 
   - [Rails speed](https://www.railsspeed.com)
@@ -73,7 +85,13 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [The #1 Rails performance blog on the web](https://www.speedshop.co/blog)
 
+  - [CSS Cheatsheet](https://htmlcheatsheet.com/css)
+
   - [CSS tricks](https://css-tricks.com/guides)
+
+  - [CSS selectors](https://flukeout.github.io)
+
+  - [Modern CSS](https://moderncss.dev/topics)
 
   - [Good UI](https://goodui.org)
 
@@ -98,8 +116,10 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
   - [Progress After Le wagon](https://github.com/damienlethiec/after-le-wagon)
 
   - [Free Frontend](https://freefrontend.com/css-progress-bars)
-  
 
+  - [Towards Data Science](https://towardsdatascience.com)
+  
+  - [Advanced Database Programming with Rails and Postgres](https://pganalyze.com/ebooks/advanced-database-programming-rails-postgres)
 
 ###### programming, development related Podcasts
 
@@ -134,6 +154,12 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [The Great Mental Models Series](https://fs.blog/books/)
 
+  - [Scott H Young](https://www.scotthyoung.com/blog)
+
+  - [Benjamin Hardy](https://medium.com/@benjaminhardy/books)
+
+  - [Cal Newport](https://calnewport.com/)
+
   - [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.navalmanack.com)
   
   - [Naval Ravikant](https://nav.al)
@@ -166,11 +192,13 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [Other Rivers: A Chinese Education Hardcover by Peter Hessler](https://www.amazon.com/stores/Peter-Hessler/author/B001ILMA1C?ref=sr_ntt_srch_lnk_1&qid=1723972979&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true)
 
-  - [Scott H Young](https://www.scotthyoung.com/blog)
-
   - [Tech Pays](https://techpays.com)
 
   - [The Pragmatic Engineer](https://blog.pragmaticengineer.com)
+
+  - [Neil (If Sapiens were a blog post)](https://neilkakkar.com)
+
+  - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts)
 
 ###### Fictions and others
   
@@ -181,3 +209,5 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
   - [the Alien series](https://avp.fandom.com/wiki/Alien_(film))
 
   - [H.R. Giger](https://www.littlegiger.com/index.html)
+
+  - [H.R. Giger](https://giger.cz)
