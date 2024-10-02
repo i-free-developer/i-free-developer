@@ -7,9 +7,22 @@
   
   - [x] refresh morden HTML5, CSS3, JavaScript, finished some Freecodecamp projects
 
+
 ###### what I want to do soon
+  
   - [] rebuild the PadelX to a SaaS, powered by the latest Rails, in the rails way (Hotwire, turbo, tailwindcss...), with API endpoints
+    - [] start from scratch, TDD with rspec
+    - [] basic models, views, controllers
+      - [] Venue, Court ...
+      - [] Tailwind and daisyUI
+      - [] landing page, About, FAQ
+    - [] authentication with devise
+    - [] customers can book courts
+    - [] customers can book activities
+    - [] customers can book coach and courts
+    - [] build RESTful API endpoints
+    - [] 
   
-  - [] build a React project
+  - [] build a React project based on the SaaS APIs
   
-  - [] more ideas
+  - [] build a product for myself, collect bookmarks, podcasts, encrypt messages ...

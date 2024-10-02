@@ -85,13 +85,13 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
 
   - [The #1 Rails performance blog on the web](https://www.speedshop.co/blog)
 
-  - [CSS Cheatsheet](https://htmlcheatsheet.com/css)
+  - [HTML CSS JS Cheatsheet](https://htmlcheatsheet.com/css)
+  
+  - [Modern CSS Dev](https://moderncss.dev/topics)
 
   - [CSS tricks](https://css-tricks.com/guides)
 
   - [CSS selectors](https://flukeout.github.io)
-
-  - [Modern CSS](https://moderncss.dev/topics)
 
   - [Good UI](https://goodui.org)
 
@@ -153,6 +153,8 @@ For long blog articles, I always push to kinde and read on it. Just too many dis
   - [Better Explained](https://betterexplained.com)
 
   - [The Great Mental Models Series](https://fs.blog/books/)
+
+  - [Get Good at Business. Faster.](https://commoncog.com/the-tacit-knowledge-series)
 
   - [Scott H Young](https://www.scotthyoung.com/blog)
 
